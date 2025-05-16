@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_63c9fbb30bd8273585e8100d76bf07e0 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_63c9fbb30bd8273585e8100d76bf07e0" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_63c9fbb30bd8273585e8100d76bf07e0 = L.map(
+                "map_63c9fbb30bd8273585e8100d76bf07e0",
+                {
+                    center: [35.8714, 128.6014],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_fb6387b7599a99d3dd6fc5d5208c5d9f = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_fb6387b7599a99d3dd6fc5d5208c5d9f.addTo(map_63c9fbb30bd8273585e8100d76bf07e0);
+        
+    
+            var marker_cluster_084002320cf6788c2a37fd047e0d92cb = L.markerClusterGroup(
+                {
+}
+            );
+        
+    
+            var circle_marker_cb38f2599a32c475bba8cbd4e166579b = L.circleMarker(
+                [35.840321, 128.705216],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_084002320cf6788c2a37fd047e0d92cb);
+        
+    
+        var popup_cfea6617a4fad0ec47a595c34a064f73 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3e8489b18d8c7dbc76b5454788888274 = $(`<div id="html_3e8489b18d8c7dbc76b5454788888274" style="width: 100.0%; height: 100.0%;"><b>주소:</b> 대구 수성구 신매동 567<br><b>평당 가격:</b> 22,242,218원</div>`)[0];
+                popup_cfea6617a4fad0ec47a595c34a064f73.setContent(html_3e8489b18d8c7dbc76b5454788888274);
+            
+        
+
+        circle_marker_cb38f2599a32c475bba8cbd4e166579b.bindPopup(popup_cfea6617a4fad0ec47a595c34a064f73)
+        ;
+
+        
+    
+    
+            var circle_marker_5319dc5c19a86f731237a512d4f80f70 = L.circleMarker(
+                [35.828776, 128.62356],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_084002320cf6788c2a37fd047e0d92cb);
+        
+    
+        var popup_7b2a3c21ddb3f4bbb44f4422cd6c3ebb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_76b6ae4fa358436acb7b490144f1223e = $(`<div id="html_76b6ae4fa358436acb7b490144f1223e" style="width: 100.0%; height: 100.0%;"><b>주소:</b> 대구 수성구 지범로 12<br><b>평당 가격:</b> 424,006,987,486원</div>`)[0];
+                popup_7b2a3c21ddb3f4bbb44f4422cd6c3ebb.setContent(html_76b6ae4fa358436acb7b490144f1223e);
+            
+        
+
+        circle_marker_5319dc5c19a86f731237a512d4f80f70.bindPopup(popup_7b2a3c21ddb3f4bbb44f4422cd6c3ebb)
+        ;
+
+        
+    
+    
+            var circle_marker_8ee48ee4a4974e8d86d3ff801131622f = L.circleMarker(
+                [35.85478834, 128.6507609],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_084002320cf6788c2a37fd047e0d92cb);
+        
+    
+        var popup_4e8f60c9a15a8ea96823e5b48b2729f4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_348488b6aca8d485da350a545d48be65 = $(`<div id="html_348488b6aca8d485da350a545d48be65" style="width: 100.0%; height: 100.0%;"><b>주소:</b> 대구광역시 수성구 교학로4길 39<br><b>평당 가격:</b> 377,229,900,557원</div>`)[0];
+                popup_4e8f60c9a15a8ea96823e5b48b2729f4.setContent(html_348488b6aca8d485da350a545d48be65);
+            
+        
+
+        circle_marker_8ee48ee4a4974e8d86d3ff801131622f.bindPopup(popup_4e8f60c9a15a8ea96823e5b48b2729f4)
+        ;
+
+        
+    
+    
+            var circle_marker_d5a59004a588e7f5ef2ac2c45214a9c7 = L.circleMarker(
+                [35.84111586, 128.6119413],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_084002320cf6788c2a37fd047e0d92cb);
+        
+    
+        var popup_4e4e0ba3a73f86c321eda1bed1d372cd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_61553e11a4d862d9dcbba7de45459a90 = $(`<div id="html_61553e11a4d862d9dcbba7de45459a90" style="width: 100.0%; height: 100.0%;"><b>주소:</b> 대구광역시 수성구 수성로 173<br><b>평당 가격:</b> 1,385,154,868원</div>`)[0];
+                popup_4e4e0ba3a73f86c321eda1bed1d372cd.setContent(html_61553e11a4d862d9dcbba7de45459a90);
+            
+        
+
+        circle_marker_d5a59004a588e7f5ef2ac2c45214a9c7.bindPopup(popup_4e4e0ba3a73f86c321eda1bed1d372cd)
+        ;
+
+        
+    
+    
+            var circle_marker_4c8ea0fb09d44121a3077236c7422bdc = L.circleMarker(
+                [35.834282, 128.690197],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_084002320cf6788c2a37fd047e0d92cb);
+        
+    
+        var popup_5ee2b68816277cb53810f05dc91f5769 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d725993090d8d7eb0668dc3d268bc72d = $(`<div id="html_d725993090d8d7eb0668dc3d268bc72d" style="width: 100.0%; height: 100.0%;"><b>주소:</b> 대구시 수성구 대흥동 904-1<br><b>평당 가격:</b> 472,984,312,316원</div>`)[0];
+                popup_5ee2b68816277cb53810f05dc91f5769.setContent(html_d725993090d8d7eb0668dc3d268bc72d);
+            
+        
+
+        circle_marker_4c8ea0fb09d44121a3077236c7422bdc.bindPopup(popup_5ee2b68816277cb53810f05dc91f5769)
+        ;
+
+        
+    
+    
+            var circle_marker_41cf71f0cee0d2558c5390adef0884a2 = L.circleMarker(
+                [35.835604, 128.621331],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_084002320cf6788c2a37fd047e0d92cb);
+        
+    
+        var popup_b8691737ac59cc7f332d9fc9725d1741 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_683c20373c632ba2ece0442128579d02 = $(`<div id="html_683c20373c632ba2ece0442128579d02" style="width: 100.0%; height: 100.0%;"><b>주소:</b> 대구시 수성구 청수로24길 91<br><b>평당 가격:</b> 349,216,143,551원</div>`)[0];
+                popup_b8691737ac59cc7f332d9fc9725d1741.setContent(html_683c20373c632ba2ece0442128579d02);
+            
+        
+
+        circle_marker_41cf71f0cee0d2558c5390adef0884a2.bindPopup(popup_b8691737ac59cc7f332d9fc9725d1741)
+        ;
+
+        
+    
+    
+            var circle_marker_d6138d76035f9321b170b3632e491bc2 = L.circleMarker(
+                [35.864755, 128.62855],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_084002320cf6788c2a37fd047e0d92cb);
+        
+    
+        var popup_4e363f50730bcb817f0d2f9ffdf43a85 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cb9ba7d7a0e09d601d97c6063b22611a = $(`<div id="html_cb9ba7d7a0e09d601d97c6063b22611a" style="width: 100.0%; height: 100.0%;"><b>주소:</b> 범어동 동대구로74안길<br><b>평당 가격:</b> 3,377,178,490,610원</div>`)[0];
+                popup_4e363f50730bcb817f0d2f9ffdf43a85.setContent(html_cb9ba7d7a0e09d601d97c6063b22611a);
+            
+        
+
+        circle_marker_d6138d76035f9321b170b3632e491bc2.bindPopup(popup_4e363f50730bcb817f0d2f9ffdf43a85)
+        ;
+
+        
+    
+    
+            marker_cluster_084002320cf6788c2a37fd047e0d92cb.addTo(map_63c9fbb30bd8273585e8100d76bf07e0);
+        
+</script>
+</html>

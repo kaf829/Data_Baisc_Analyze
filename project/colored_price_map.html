@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_8769317b93d605cb4eb9f479e565f511 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_8769317b93d605cb4eb9f479e565f511" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_8769317b93d605cb4eb9f479e565f511 = L.map(
+                "map_8769317b93d605cb4eb9f479e565f511",
+                {
+                    center: [35.8714, 128.6014],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f71b09c2ea3380307fd3a42b760e079d = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_f71b09c2ea3380307fd3a42b760e079d.addTo(map_8769317b93d605cb4eb9f479e565f511);
+        
+    
+            var circle_marker_03dbb62ab0901a5e22423d58abae2171 = L.circleMarker(
+                [35.840321, 128.705216],
+                {"bubblingMouseEvents": true, "color": "#ffffe5ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ffffe5ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 0.5}
+            ).addTo(map_8769317b93d605cb4eb9f479e565f511);
+        
+    
+        var popup_7da5fcaf0e44c227564046871ded6b45 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_369373fab4ceea91f4a814360af5ce41 = $(`<div id="html_369373fab4ceea91f4a814360af5ce41" style="width: 100.0%; height: 100.0%;">대구 수성구 신매동 567<br>22,242,218원/평</div>`)[0];
+                popup_7da5fcaf0e44c227564046871ded6b45.setContent(html_369373fab4ceea91f4a814360af5ce41);
+            
+        
+
+        circle_marker_03dbb62ab0901a5e22423d58abae2171.bindPopup(popup_7da5fcaf0e44c227564046871ded6b45)
+        ;
+
+        
+    
+    
+            var circle_marker_a03b3159317d37d4404777e088732200 = L.circleMarker(
+                [35.828776, 128.62356],
+                {"bubblingMouseEvents": true, "color": "#f7fcb9ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f7fcb9ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 0.5}
+            ).addTo(map_8769317b93d605cb4eb9f479e565f511);
+        
+    
+        var popup_3a1227c3733f221be0f165eaa8364cfa = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a976aaead1b9be277d9f3d2094df6229 = $(`<div id="html_a976aaead1b9be277d9f3d2094df6229" style="width: 100.0%; height: 100.0%;">대구 수성구 지범로 12<br>424,006,987,486원/평</div>`)[0];
+                popup_3a1227c3733f221be0f165eaa8364cfa.setContent(html_a976aaead1b9be277d9f3d2094df6229);
+            
+        
+
+        circle_marker_a03b3159317d37d4404777e088732200.bindPopup(popup_3a1227c3733f221be0f165eaa8364cfa)
+        ;
+
+        
+    
+    
+            var circle_marker_fd28ee9120eb63d07e3226625ee78f67 = L.circleMarker(
+                [35.85478834, 128.6507609],
+                {"bubblingMouseEvents": true, "color": "#f8fdbeff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f8fdbeff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 0.5}
+            ).addTo(map_8769317b93d605cb4eb9f479e565f511);
+        
+    
+        var popup_1df8e5170f3e7b70bead9fde0cf10626 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_67eeaac376f488cf83bf336f5e79086b = $(`<div id="html_67eeaac376f488cf83bf336f5e79086b" style="width: 100.0%; height: 100.0%;">대구광역시 수성구 교학로4길 39<br>377,229,900,557원/평</div>`)[0];
+                popup_1df8e5170f3e7b70bead9fde0cf10626.setContent(html_67eeaac376f488cf83bf336f5e79086b);
+            
+        
+
+        circle_marker_fd28ee9120eb63d07e3226625ee78f67.bindPopup(popup_1df8e5170f3e7b70bead9fde0cf10626)
+        ;
+
+        
+    
+    
+            var circle_marker_42d0af11c5364872277b44db1a5d798b = L.circleMarker(
+                [35.84111586, 128.6119413],
+                {"bubblingMouseEvents": true, "color": "#ffffe5ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ffffe5ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 0.5}
+            ).addTo(map_8769317b93d605cb4eb9f479e565f511);
+        
+    
+        var popup_e3c9a376b88047b3b078ad87bcc04af8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d173315f42af2b6d41a35d77c4b8c0db = $(`<div id="html_d173315f42af2b6d41a35d77c4b8c0db" style="width: 100.0%; height: 100.0%;">대구광역시 수성구 수성로 173<br>1,385,154,868원/평</div>`)[0];
+                popup_e3c9a376b88047b3b078ad87bcc04af8.setContent(html_d173315f42af2b6d41a35d77c4b8c0db);
+            
+        
+
+        circle_marker_42d0af11c5364872277b44db1a5d798b.bindPopup(popup_e3c9a376b88047b3b078ad87bcc04af8)
+        ;
+
+        
+    
+    
+            var circle_marker_e6168677b45b4fee3d851fee26a996de = L.circleMarker(
+                [35.834282, 128.690197],
+                {"bubblingMouseEvents": true, "color": "#f4fbb7ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f4fbb7ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 0.5}
+            ).addTo(map_8769317b93d605cb4eb9f479e565f511);
+        
+    
+        var popup_7664d6b4dda8b89dbc41e267c508390b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e5e7adef5b10104aab880cb2ce37ad05 = $(`<div id="html_e5e7adef5b10104aab880cb2ce37ad05" style="width: 100.0%; height: 100.0%;">대구시 수성구 대흥동 904-1<br>472,984,312,316원/평</div>`)[0];
+                popup_7664d6b4dda8b89dbc41e267c508390b.setContent(html_e5e7adef5b10104aab880cb2ce37ad05);
+            
+        
+
+        circle_marker_e6168677b45b4fee3d851fee26a996de.bindPopup(popup_7664d6b4dda8b89dbc41e267c508390b)
+        ;
+
+        
+    
+    
+            var circle_marker_09923a160d49b189af99456bb879b904 = L.circleMarker(
+                [35.835604, 128.621331],
+                {"bubblingMouseEvents": true, "color": "#f9fdc1ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f9fdc1ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 0.5}
+            ).addTo(map_8769317b93d605cb4eb9f479e565f511);
+        
+    
+        var popup_9987b7e640cb19c81cbc3f6db72677da = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c55c3fe8a04b6bc6c0cfb121abcef9d2 = $(`<div id="html_c55c3fe8a04b6bc6c0cfb121abcef9d2" style="width: 100.0%; height: 100.0%;">대구시 수성구 청수로24길 91<br>349,216,143,551원/평</div>`)[0];
+                popup_9987b7e640cb19c81cbc3f6db72677da.setContent(html_c55c3fe8a04b6bc6c0cfb121abcef9d2);
+            
+        
+
+        circle_marker_09923a160d49b189af99456bb879b904.bindPopup(popup_9987b7e640cb19c81cbc3f6db72677da)
+        ;
+
+        
+    
+    
+            var circle_marker_a512ebbd8236223db361786965a0c714 = L.circleMarker(
+                [35.864755, 128.62855],
+                {"bubblingMouseEvents": true, "color": "#004529ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#004529ff", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 0.5}
+            ).addTo(map_8769317b93d605cb4eb9f479e565f511);
+        
+    
+        var popup_d0f6e898b8be9bffd9016b8c12e95b22 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_475b1cd8763aba8e0904a82f71a16641 = $(`<div id="html_475b1cd8763aba8e0904a82f71a16641" style="width: 100.0%; height: 100.0%;">범어동 동대구로74안길<br>3,377,178,490,610원/평</div>`)[0];
+                popup_d0f6e898b8be9bffd9016b8c12e95b22.setContent(html_475b1cd8763aba8e0904a82f71a16641);
+            
+        
+
+        circle_marker_a512ebbd8236223db361786965a0c714.bindPopup(popup_d0f6e898b8be9bffd9016b8c12e95b22)
+        ;
+
+        
+    
+    
+    var color_map_6822950c24cf5f1f9bde6287dc6a7552 = {};
+
+    
+    color_map_6822950c24cf5f1f9bde6287dc6a7552.color = d3.scale.threshold()
+              .domain([22242218.081604734, 6790090411.253457, 13557938604.425308, 20325786797.597164, 27093634990.769012, 33861483183.940865, 40629331377.112724, 47397179570.28457, 54165027763.45642, 60932875956.62827, 67700724149.800125, 74468572342.97198, 81236420536.14384, 88004268729.31569, 94772116922.48753, 101539965115.65938, 108307813308.83124, 115075661502.0031, 121843509695.17494, 128611357888.3468, 135379206081.51865, 142147054274.69052, 148914902467.86237, 155682750661.0342, 162450598854.2061, 169218447047.37793, 175986295240.54977, 182754143433.72165, 189521991626.89346, 196289839820.0653, 203057688013.23715, 209825536206.40903, 216593384399.58087, 223361232592.75272, 230129080785.9246, 236896928979.09644, 243664777172.26828, 250432625365.44012, 257200473558.612, 263968321751.78384, 270736169944.9557, 277504018138.12756, 284271866331.29944, 291039714524.47125, 297807562717.6431, 304575410910.81494, 311343259103.9868, 318111107297.1587, 324878955490.33057, 331646803683.5024, 338414651876.67426, 345182500069.84607, 351950348263.01794, 358718196456.18976, 365486044649.3617, 372253892842.5335, 379021741035.7053, 385789589228.8772, 392557437422.049, 399325285615.2209, 406093133808.3927, 412860982001.56464, 419628830194.73645, 426396678387.9083, 433164526581.08014, 439932374774.252, 446700222967.4238, 453468071160.5957, 460235919353.7676, 467003767546.93945, 473771615740.11127, 480539463933.28314, 487307312126.45496, 494075160319.62683, 500843008512.79865, 507610856705.9706, 514378704899.1424, 521146553092.3143, 527914401285.4861, 534682249478.65796, 541450097671.8298, 548217945865.00165, 554985794058.1736, 561753642251.3455, 568521490444.5173, 575289338637.6891, 582057186830.861, 588825035024.0328, 595592883217.2047, 602360731410.3765, 609128579603.5483, 615896427796.7202, 622664275989.8921, 629432124183.064, 636199972376.2358, 642967820569.4077, 649735668762.5796, 656503516955.7513, 663271365148.9232, 670039213342.0951, 676807061535.267, 683574909728.4387, 690342757921.6106, 697110606114.7825, 703878454307.9543, 710646302501.1261, 717414150694.298, 724181998887.47, 730949847080.6418, 737717695273.8136, 744485543466.9855, 751253391660.1573, 758021239853.3291, 764789088046.501, 771556936239.6729, 778324784432.8447, 785092632626.0165, 791860480819.1884, 798628329012.3602, 805396177205.5321, 812164025398.7039, 818931873591.8759, 825699721785.0477, 832467569978.2196, 839235418171.3914, 846003266364.5632, 852771114557.7351, 859538962750.907, 866306810944.0787, 873074659137.2506, 879842507330.4225, 886610355523.5944, 893378203716.7661, 900146051909.938, 906913900103.1099, 913681748296.2817, 920449596489.4536, 927217444682.6255, 933985292875.7974, 940753141068.9692, 947520989262.141, 954288837455.3129, 961056685648.4847, 967824533841.6566, 974592382034.8284, 981360230228.0002, 988128078421.1721, 994895926614.344, 1001663774807.5157, 1008431623000.6876, 1015199471193.8596, 1021967319387.0315, 1028735167580.2032, 1035503015773.3751, 1042270863966.547, 1049038712159.7189, 1055806560352.8906, 1062574408546.0625, 1069342256739.2344, 1076110104932.4062, 1082877953125.578, 1089645801318.7499, 1096413649511.9218, 1103181497705.0935, 1109949345898.2654, 1116717194091.4373, 1123485042284.6091, 1130252890477.781, 1137020738670.953, 1143788586864.1245, 1150556435057.2964, 1157324283250.4683, 1164092131443.6401, 1170859979636.812, 1177627827829.984, 1184395676023.1558, 1191163524216.3276, 1197931372409.4993, 1204699220602.6711, 1211467068795.843, 1218234916989.015, 1225002765182.1868, 1231770613375.3586, 1238538461568.5305, 1245306309761.7024, 1252074157954.8743, 1258842006148.0461, 1265609854341.218, 1272377702534.39, 1279145550727.5618, 1285913398920.7336, 1292681247113.9055, 1299449095307.0774, 1306216943500.249, 1312984791693.421, 1319752639886.5928, 1326520488079.7646, 1333288336272.9365, 1340056184466.1084, 1346824032659.2803, 1353591880852.4521, 1360359729045.6238, 1367127577238.7957, 1373895425431.9675, 1380663273625.1394, 1387431121818.3113, 1394198970011.4832, 1400966818204.655, 1407734666397.827, 1414502514590.9985, 1421270362784.1704, 1428038210977.3423, 1434806059170.5142, 1441573907363.686, 1448341755556.8582, 1455109603750.03, 1461877451943.202, 1468645300136.3735, 1475413148329.5454, 1482180996522.7173, 1488948844715.8892, 1495716692909.061, 1502484541102.233, 1509252389295.4048, 1516020237488.5764, 1522788085681.7483, 1529555933874.9202, 1536323782068.092, 1543091630261.264, 1549859478454.4358, 1556627326647.6077, 1563395174840.7795, 1570163023033.9512, 1576930871227.123, 1583698719420.295, 1590466567613.4668, 1597234415806.6387, 1604002263999.8105, 1610770112192.9824, 1617537960386.1543, 1624305808579.326, 1631073656772.4978, 1637841504965.67, 1644609353158.8418, 1651377201352.0137, 1658145049545.1855, 1664912897738.3574, 1671680745931.5293, 1678448594124.701, 1685216442317.8728, 1691984290511.0447, 1698752138704.2166, 1705519986897.3884, 1712287835090.5603, 1719055683283.7322, 1725823531476.904, 1732591379670.0757, 1739359227863.2476, 1746127076056.4194, 1752894924249.5913, 1759662772442.7632, 1766430620635.935, 1773198468829.107, 1779966317022.2788, 1786734165215.4504, 1793502013408.6223, 1800269861601.7942, 1807037709794.966, 1813805557988.138, 1820573406181.3098, 1827341254374.4817, 1834109102567.6538, 1840876950760.8254, 1847644798953.9973, 1854412647147.1692, 1861180495340.341, 1867948343533.513, 1874716191726.6848, 1881484039919.8567, 1888251888113.0283, 1895019736306.2002, 1901787584499.372, 1908555432692.544, 1915323280885.7158, 1922091129078.8877, 1928858977272.0596, 1935626825465.2314, 1942394673658.403, 1949162521851.575, 1955930370044.7468, 1962698218237.9187, 1969466066431.0906, 1976233914624.2625, 1983001762817.4343, 1989769611010.6062, 1996537459203.7778, 2003305307396.9497, 2010073155590.1216, 2016841003783.2935, 2023608851976.4656, 2030376700169.6375, 2037144548362.8093, 2043912396555.9812, 2050680244749.1528, 2057448092942.3247, 2064215941135.4966, 2070983789328.6685, 2077751637521.8403, 2084519485715.0122, 2091287333908.184, 2098055182101.356, 2104823030294.5276, 2111590878487.6995, 2118358726680.8713, 2125126574874.0432, 2131894423067.215, 2138662271260.387, 2145430119453.5588, 2152197967646.7307, 2158965815839.9023, 2165733664033.0742, 2172501512226.246, 2179269360419.418, 2186037208612.5898, 2192805056805.7617, 2199572904998.9336, 2206340753192.1055, 2213108601385.2773, 2219876449578.449, 2226644297771.621, 2233412145964.793, 2240179994157.965, 2246947842351.1367, 2253715690544.3086, 2260483538737.4805, 2267251386930.6523, 2274019235123.824, 2280787083316.996, 2287554931510.1675, 2294322779703.3394, 2301090627896.511, 2307858476089.683, 2314626324282.855, 2321394172476.027, 2328162020669.1987, 2334929868862.3706, 2341697717055.5425, 2348465565248.7144, 2355233413441.886, 2362001261635.058, 2368769109828.23, 2375536958021.402, 2382304806214.5737, 2389072654407.7456, 2395840502600.917, 2402608350794.089, 2409376198987.2607, 2416144047180.4326, 2422911895373.6045, 2429679743566.7764, 2436447591759.948, 2443215439953.12, 2449983288146.292, 2456751136339.464, 2463518984532.6357, 2470286832725.8076, 2477054680918.9795, 2483822529112.1514, 2490590377305.323, 2497358225498.4946, 2504126073691.667, 2510893921884.839, 2517661770078.0107, 2524429618271.1826, 2531197466464.3545, 2537965314657.5264, 2544733162850.698, 2551501011043.87, 2558268859237.042, 2565036707430.214, 2571804555623.3857, 2578572403816.5576, 2585340252009.7295, 2592108100202.9014, 2598875948396.073, 2605643796589.2446, 2612411644782.4165, 2619179492975.5884, 2625947341168.7603, 2632715189361.932, 2639483037555.104, 2646250885748.276, 2653018733941.4478, 2659786582134.6196, 2666554430327.7915, 2673322278520.9634, 2680090126714.1353, 2686857974907.307, 2693625823100.479, 2700393671293.651, 2707161519486.8228, 2713929367679.994, 2720697215873.166, 2727465064066.338, 2734232912259.51, 2741000760452.6816, 2747768608645.8535, 2754536456839.0254, 2761304305032.1973, 2768072153225.369, 2774840001418.541, 2781607849611.713, 2788375697804.885, 2795143545998.0566, 2801911394191.2285, 2808679242384.4004, 2815447090577.5723, 2822214938770.7437, 2828982786963.9155, 2835750635157.0874, 2842518483350.2593, 2849286331543.431, 2856054179736.603, 2862822027929.775, 2869589876122.947, 2876357724316.1187, 2883125572509.2905, 2889893420702.463, 2896661268895.635, 2903429117088.8066, 2910196965281.9785, 2916964813475.1504, 2923732661668.3223, 2930500509861.4937, 2937268358054.6655, 2944036206247.8374, 2950804054441.0093, 2957571902634.181, 2964339750827.353, 2971107599020.525, 2977875447213.697, 2984643295406.8687, 2991411143600.0405, 2998178991793.2124, 3004946839986.3843, 3011714688179.556, 3018482536372.728, 3025250384565.9, 3032018232759.0713, 3038786080952.243, 3045553929145.415, 3052321777338.587, 3059089625531.759, 3065857473724.9307, 3072625321918.1025, 3079393170111.2744, 3086161018304.4463, 3092928866497.618, 3099696714690.79, 3106464562883.962, 3113232411077.134, 3120000259270.3057, 3126768107463.4775, 3133535955656.6494, 3140303803849.821, 3147071652042.9927, 3153839500236.1646, 3160607348429.3364, 3167375196622.5083, 3174143044815.68, 3180910893008.852, 3187678741202.024, 3194446589395.196, 3201214437588.3677, 3207982285781.5396, 3214750133974.7114, 3221517982167.8833, 3228285830361.055, 3235053678554.227, 3241821526747.3984, 3248589374940.5703, 3255357223133.742, 3262125071326.914, 3268892919520.086, 3275660767713.2583, 3282428615906.43, 3289196464099.602, 3295964312292.774, 3302732160485.946, 3309500008679.1177, 3316267856872.2896, 3323035705065.4614, 3329803553258.6333, 3336571401451.805, 3343339249644.977, 3350107097838.1484, 3356874946031.3203, 3363642794224.492, 3370410642417.664, 3377178490610.836])
+              .range(['#ffffe5ff', '#ffffe5ff', '#ffffe4ff', '#ffffe3ff', '#ffffe3ff', '#ffffe2ff', '#ffffe1ff', '#ffffe0ff', '#feffe0ff', '#feffdfff', '#feffdeff', '#feffdeff', '#feffddff', '#feffdcff', '#feffdbff', '#feffdbff', '#fdffdaff', '#fdffd9ff', '#fdffd9ff', '#fdffd8ff', '#fdffd7ff', '#fdfed7ff', '#fdfed6ff', '#fdfed5ff', '#fcfed4ff', '#fcfed4ff', '#fcfed3ff', '#fcfed2ff', '#fcfed2ff', '#fcfed1ff', '#fcfed0ff', '#fcfecfff', '#fbfecfff', '#fbfeceff', '#fbfecdff', '#fbfecdff', '#fbfeccff', '#fbfecbff', '#fbfecaff', '#fafecaff', '#fafec9ff', '#fafec8ff', '#fafdc8ff', '#fafdc7ff', '#fafdc6ff', '#fafdc6ff', '#fafdc5ff', '#f9fdc4ff', '#f9fdc3ff', '#f9fdc3ff', '#f9fdc2ff', '#f9fdc1ff', '#f9fdc1ff', '#f9fdc0ff', '#f9fdbfff', '#f8fdbeff', '#f8fdbeff', '#f8fdbdff', '#f8fdbcff', '#f8fdbcff', '#f8fdbbff', '#f8fdbaff', '#f8fdb9ff', '#f7fcb9ff', '#f7fcb9ff', '#f6fcb8ff', '#f6fcb8ff', '#f5fcb8ff', '#f5fbb7ff', '#f4fbb7ff', '#f4fbb7ff', '#f3fbb6ff', '#f3fbb6ff', '#f2fab5ff', '#f2fab5ff', '#f1fab5ff', '#f1fab4ff', '#f0fab4ff', '#f0f9b4ff', '#eff9b3ff', '#eff9b3ff', '#eef9b3ff', '#eef9b2ff', '#eef9b2ff', '#edf8b2ff', '#edf8b1ff', '#ecf8b1ff', '#ecf8b1ff', '#ebf8b0ff', '#ebf7b0ff', '#eaf7afff', '#eaf7afff', '#e9f7afff', '#e9f7aeff', '#e8f6aeff', '#e8f6aeff', '#e7f6adff', '#e7f6adff', '#e6f6adff', '#e6f5acff', '#e5f5acff', '#e5f5acff', '#e4f5abff', '#e4f5abff', '#e3f4aaff', '#e3f4aaff', '#e2f4aaff', '#e2f4a9ff', '#e1f4a9ff', '#e1f3a9ff', '#e0f3a8ff', '#e0f3a8ff', '#e0f3a8ff', '#dff3a7ff', '#dff3a7ff', '#def2a7ff', '#def2a6ff', '#ddf2a6ff', '#ddf2a6ff', '#dcf2a5ff', '#dcf1a5ff', '#dbf1a4ff', '#dbf1a4ff', '#daf1a4ff', '#daf1a3ff', '#d9f0a3ff', '#d8f0a3ff', '#d8f0a2ff', '#d7efa2ff', '#d6efa2ff', '#d6efa1ff', '#d5efa1ff', '#d4eea1ff', '#d4eea0ff', '#d3eea0ff', '#d2eda0ff', '#d1ed9fff', '#d1ed9fff', '#d0ec9fff', '#cfec9eff', '#cfec9eff', '#ceeb9eff', '#cdeb9dff', '#cceb9dff', '#cceb9dff', '#cbea9cff', '#caea9cff', '#caea9cff', '#c9e99bff', '#c8e99bff', '#c7e99bff', '#c7e89aff', '#c6e89aff', '#c5e89aff', '#c5e799ff', '#c4e799ff', '#c3e799ff', '#c3e798ff', '#c2e698ff', '#c1e698ff', '#c0e697ff', '#c0e597ff', '#bfe597ff', '#bee596ff', '#bee496ff', '#bde496ff', '#bce495ff', '#bbe495ff', '#bbe395ff', '#bae394ff', '#b9e394ff', '#b9e294ff', '#b8e293ff', '#b7e293ff', '#b6e192ff', '#b6e192ff', '#b5e192ff', '#b4e091ff', '#b4e091ff', '#b3e091ff', '#b2e090ff', '#b2df90ff', '#b1df90ff', '#b0df8fff', '#afde8fff', '#afde8fff', '#aede8eff', '#addd8eff', '#acdd8eff', '#acdd8dff', '#abdc8dff', '#aadc8dff', '#a9dc8cff', '#a8db8cff', '#a7db8cff', '#a6da8bff', '#a6da8bff', '#a5da8bff', '#a4d98aff', '#a3d98aff', '#a2d98aff', '#a1d889ff', '#a0d889ff', '#a0d789ff', '#9fd788ff', '#9ed788ff', '#9dd688ff', '#9cd687ff', '#9bd687ff', '#9bd587ff', '#9ad586ff', '#99d586ff', '#98d486ff', '#97d485ff', '#96d385ff', '#95d385ff', '#95d384ff', '#94d284ff', '#93d284ff', '#92d283ff', '#91d183ff', '#90d183ff', '#8fd082ff', '#8fd082ff', '#8ed082ff', '#8dcf81ff', '#8ccf81ff', '#8bcf81ff', '#8ace80ff', '#89ce80ff', '#89cd80ff', '#88cd7fff', '#87cd7fff', '#86cc7fff', '#85cc7eff', '#84cc7eff', '#83cb7eff', '#83cb7dff', '#82cb7dff', '#81ca7dff', '#80ca7cff', '#7fc97cff', '#7ec97cff', '#7ec97bff', '#7dc87bff', '#7cc87aff', '#7bc87aff', '#7ac77aff', '#79c779ff', '#78c679ff', '#78c679ff', '#77c678ff', '#76c578ff', '#75c577ff', '#74c477ff', '#73c476ff', '#72c376ff', '#71c376ff', '#70c375ff', '#70c275ff', '#6fc274ff', '#6ec174ff', '#6dc173ff', '#6cc073ff', '#6bc072ff', '#6ac072ff', '#69bf72ff', '#68bf71ff', '#68be71ff', '#67be70ff', '#66bd70ff', '#65bd6fff', '#64bc6fff', '#63bc6eff', '#62bc6eff', '#61bb6dff', '#61bb6dff', '#60ba6dff', '#5fba6cff', '#5eb96cff', '#5db96bff', '#5cb96bff', '#5bb86aff', '#5ab86aff', '#59b769ff', '#59b769ff', '#58b669ff', '#57b668ff', '#56b668ff', '#55b567ff', '#54b567ff', '#53b466ff', '#52b466ff', '#51b365ff', '#51b365ff', '#50b364ff', '#4fb264ff', '#4eb264ff', '#4db163ff', '#4cb163ff', '#4bb062ff', '#4ab062ff', '#49af61ff', '#49af61ff', '#48af60ff', '#47ae60ff', '#46ae60ff', '#45ad5fff', '#44ad5fff', '#43ac5eff', '#42ac5eff', '#42ac5dff', '#41ab5dff', '#40aa5cff', '#40aa5cff', '#3fa95cff', '#3fa95bff', '#3ea85bff', '#3ea75aff', '#3da75aff', '#3da659ff', '#3ca559ff', '#3ca559ff', '#3ba458ff', '#3ba458ff', '#3aa357ff', '#3aa257ff', '#39a257ff', '#39a156ff', '#38a056ff', '#38a055ff', '#389f55ff', '#379f54ff', '#379e54ff', '#369d54ff', '#369d53ff', '#359c53ff', '#359b52ff', '#349b52ff', '#349a52ff', '#339a51ff', '#339951ff', '#329850ff', '#329850ff', '#31974fff', '#31964fff', '#30964fff', '#30954eff', '#2f944eff', '#2f944dff', '#2e934dff', '#2e934cff', '#2d924cff', '#2d914cff', '#2c914bff', '#2c904bff', '#2b8f4aff', '#2b8f4aff', '#2a8e4aff', '#2a8e49ff', '#2a8d49ff', '#298c48ff', '#298c48ff', '#288b47ff', '#288a47ff', '#278a47ff', '#278946ff', '#268946ff', '#268845ff', '#258745ff', '#258745ff', '#248644ff', '#248544ff', '#238543ff', '#238443ff', '#228443ff', '#228342ff', '#218342ff', '#218242ff', '#208242ff', '#1f8142ff', '#1f8141ff', '#1e8141ff', '#1e8041ff', '#1d8041ff', '#1d7f41ff', '#1c7f40ff', '#1b7e40ff', '#1b7e40ff', '#1a7d40ff', '#1a7d40ff', '#197c40ff', '#197c3fff', '#187c3fff', '#187b3fff', '#177b3fff', '#167a3fff', '#167a3eff', '#15793eff', '#15793eff', '#14783eff', '#14783eff', '#13783dff', '#12773dff', '#12773dff', '#11763dff', '#11763dff', '#10753cff', '#10753cff', '#0f743cff', '#0e743cff', '#0e733cff', '#0d733bff', '#0d733bff', '#0c723bff', '#0c723bff', '#0b713bff', '#0b713bff', '#0a703aff', '#09703aff', '#096f3aff', '#086f3aff', '#086e3aff', '#076e39ff', '#076e39ff', '#066d39ff', '#056d39ff', '#056c39ff', '#046c38ff', '#046b38ff', '#036b38ff', '#036a38ff', '#026a38ff', '#026a37ff', '#016937ff', '#006937ff', '#006837ff', '#006837ff', '#006736ff', '#006736ff', '#006636ff', '#006536ff', '#006536ff', '#006435ff', '#006435ff', '#006335ff', '#006335ff', '#006234ff', '#006234ff', '#006134ff', '#006034ff', '#006033ff', '#005f33ff', '#005f33ff', '#005e33ff', '#005e33ff', '#005d32ff', '#005c32ff', '#005c32ff', '#005b32ff', '#005b31ff', '#005a31ff', '#005a31ff', '#005931ff', '#005831ff', '#005830ff', '#005730ff', '#005730ff', '#005630ff', '#00562fff', '#00552fff', '#00552fff', '#00542fff', '#00532fff', '#00532eff', '#00522eff', '#00522eff', '#00512eff', '#00512dff', '#00502dff', '#004f2dff', '#004f2dff', '#004e2cff', '#004e2cff', '#004d2cff', '#004d2cff', '#004c2cff', '#004c2bff', '#004b2bff', '#004a2bff', '#004a2bff', '#00492aff', '#00492aff', '#00482aff', '#00482aff', '#00472aff', '#004629ff', '#004629ff', '#004529ff', '#004529ff']);
+    
+
+    color_map_6822950c24cf5f1f9bde6287dc6a7552.x = d3.scale.linear()
+              .domain([22242218.081604734, 3377178490610.836])
+              .range([0, 450 - 50]);
+
+    color_map_6822950c24cf5f1f9bde6287dc6a7552.legend = L.control({position: 'topright'});
+    color_map_6822950c24cf5f1f9bde6287dc6a7552.legend.onAdd = function (map) {var div = L.DomUtil.create('div', 'legend'); return div};
+    color_map_6822950c24cf5f1f9bde6287dc6a7552.legend.addTo(map_8769317b93d605cb4eb9f479e565f511);
+
+    color_map_6822950c24cf5f1f9bde6287dc6a7552.xAxis = d3.svg.axis()
+        .scale(color_map_6822950c24cf5f1f9bde6287dc6a7552.x)
+        .orient("top")
+        .tickSize(1)
+        .tickValues([22242218.081604734, 422166773267.1759, 844311304316.2703, 1266455835365.3645, 1688600366414.4587, 2110744897463.553, 2532889428512.6475, 2955033959561.7417, 3377178490610.836]);
+
+    color_map_6822950c24cf5f1f9bde6287dc6a7552.svg = d3.select(".legend.leaflet-control").append("svg")
+        .attr("id", 'legend')
+        .attr("width", 450)
+        .attr("height", 40);
+
+    color_map_6822950c24cf5f1f9bde6287dc6a7552.g = color_map_6822950c24cf5f1f9bde6287dc6a7552.svg.append("g")
+        .attr("class", "key")
+        .attr("fill", "black")
+        .attr("transform", "translate(25,16)");
+
+    color_map_6822950c24cf5f1f9bde6287dc6a7552.g.selectAll("rect")
+        .data(color_map_6822950c24cf5f1f9bde6287dc6a7552.color.range().map(function(d, i) {
+          return {
+            x0: i ? color_map_6822950c24cf5f1f9bde6287dc6a7552.x(color_map_6822950c24cf5f1f9bde6287dc6a7552.color.domain()[i - 1]) : color_map_6822950c24cf5f1f9bde6287dc6a7552.x.range()[0],
+            x1: i < color_map_6822950c24cf5f1f9bde6287dc6a7552.color.domain().length ? color_map_6822950c24cf5f1f9bde6287dc6a7552.x(color_map_6822950c24cf5f1f9bde6287dc6a7552.color.domain()[i]) : color_map_6822950c24cf5f1f9bde6287dc6a7552.x.range()[1],
+            z: d
+          };
+        }))
+      .enter().append("rect")
+        .attr("height", 40 - 30)
+        .attr("x", function(d) { return d.x0; })
+        .attr("width", function(d) { return d.x1 - d.x0; })
+        .style("fill", function(d) { return d.z; });
+
+    color_map_6822950c24cf5f1f9bde6287dc6a7552.g.call(color_map_6822950c24cf5f1f9bde6287dc6a7552.xAxis).append("text")
+        .attr("class", "caption")
+        .attr("y", 21)
+        .attr("fill", "black")
+        .text("\ud3c9\ub2f9 \uac00\uaca9 (\uc6d0)");
+</script>
+</html>
