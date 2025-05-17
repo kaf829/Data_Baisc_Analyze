@@ -2,47 +2,29 @@ import requests
 import xml.etree.ElementTree as ET
 import pandas as pd
 
-# ✅ 인코딩된 키 사용
+# ▶ 본인의 인증키 입력
 service_key = "blQn7CpDK9qt6ZR%2B%2FlEbAt5Yb%2F0gE4k0zZpvonWxX0XWZv6MuS5TwFy%2BzmkDk0ZvFunmtNIN5sFnLqIlJWabrg%3D%3D"
 
-# ✅ API URL
-url = (
-    f"http://apis.data.go.kr/3460000/suseongfpa/viewdaypopudetail"
-    f"?serviceKey={service_key}"
-    f"&startYear=2023"
-    f"&startBungi=4"
-    f"&resultType=xml"
-    f"&size=100"
-    f"&Page=1"
-)
+# ▶ API URL 구성
+url = f"http://apis.data.go.kr/B551182/hospInfoServicev2/getHospBasisList?ServiceKey={service_key}&numOfRows=100&pageNo=1&dgsbjtCd=10"
 
-# ✅ 요청
+# ▶ API 호출
 response = requests.get(url)
-
-# ✅ 응답 상태 확인
-print("✅ 상태코드:", response.status_code)
-
 if response.status_code == 200:
     root = ET.fromstring(response.content)
 
-    # ✅ <items> 태그 여러 개 추출
-    items = root.findall(".//items")
+    hospitals = []
+    for item in root.iter("item"):
+        name = item.find("yadmNm").text if item.find("yadmNm") is not None else ""
+        addr = item.find("addr").text if item.find("addr") is not None else ""
+        tel = item.find("telno").text if item.find("telno") is not None else ""
+        hosp_url = item.find("hospUrl").text if item.find("hospUrl") is not None else ""
+        pnurs_cnt = item.find("pnursCnt").text if item.find("pnursCnt") is not None else ""
+        dr_tot_cnt = item.find("drTotCnt").text if item.find("drTotCnt") is not None else ""
+        hospitals.append([name, addr, tel, hosp_url, pnurs_cnt, dr_tot_cnt])
 
-    data = []
-    for elem in items:
-        data.append({
-            "cctvUid": elem.findtext("cctvUid"),
-            "cctvNm": elem.findtext("cctvNm"),
-            "lat": elem.findtext("lat"),
-            "lon": elem.findtext("lon"),
-            "cctvCount": elem.findtext("cctvCount")
-        })
-
-    if data:
-        df = pd.DataFrame(data)
-        df.to_csv("cctv_result.csv", index=False, encoding="utf-8-sig")
-        print("📁 CSV 저장 완료: cctv_result.csv")
-    else:
-        print("⚠️ <items> 태그는 있었지만 데이터 파싱 실패")
+    df = pd.DataFrame(hospitals, columns=["병원명", "주소", "전화번호", "홈페이지","조산사수","암호요양기호"])
+    df.to_csv("병원기본목록.csv", index=False, encoding='utf-8-sig')
+    print("✅ 병원 목록 저장 완료: 병원기본목록.csv")
 else:
-    print("❌ 요청 실패:", response.status_code)
+    print("❌ API 요청 실패. 상태코드:", response.status_code)
