@@ -1,0 +1,1944 @@
+⏳1번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 897us/step
+✅ Done → MAE: 0.3855
+⏳2번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 834us/step
+✅ Done → MAE: 0.3826
+⏳3번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 950us/step
+✅ Done → MAE: 0.3887
+⏳4번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 713us/step
+✅ Done → MAE: 0.3814
+⏳5번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 948us/step
+✅ Done → MAE: 0.3754
+⏳6번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3727
+⏳7번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 759us/step
+✅ Done → MAE: 0.3797
+⏳8번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 951us/step
+✅ Done → MAE: 0.3737
+⏳9번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3734
+⏳10번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 748us/step
+✅ Done → MAE: 0.3779
+⏳11번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 845us/step
+✅ Done → MAE: 0.3830
+⏳12번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 988us/step
+✅ Done → MAE: 0.3872
+⏳13번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 764us/step
+✅ Done → MAE: 0.3917
+⏳14번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 851us/step
+✅ Done → MAE: 0.3866
+⏳15번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3754
+⏳16번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 779us/step
+✅ Done → MAE: 0.3797
+⏳17번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 933us/step
+✅ Done → MAE: 0.3794
+⏳18번째 Training GRU: look_back=1, units=32, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3960
+⏳19번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 736us/step
+✅ Done → MAE: 0.3809
+⏳20번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 915us/step
+✅ Done → MAE: 0.3780
+⏳21번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 973us/step
+✅ Done → MAE: 0.3890
+⏳22번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 728us/step
+✅ Done → MAE: 0.3767
+⏳23번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 865us/step
+✅ Done → MAE: 0.3721
+⏳24번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3788
+⏳25번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 735us/step
+✅ Done → MAE: 0.3776
+⏳26번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 852us/step
+✅ Done → MAE: 0.3692
+⏳27번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3722
+⏳28번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 737us/step
+✅ Done → MAE: 0.3809
+⏳29번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 821us/step
+✅ Done → MAE: 0.3788
+⏳30번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 988us/step
+✅ Done → MAE: 0.3812
+⏳31번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 741us/step
+✅ Done → MAE: 0.3789
+⏳32번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 981us/step
+✅ Done → MAE: 0.3828
+⏳33번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3822
+⏳34번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 935us/step
+✅ Done → MAE: 0.3802
+⏳35번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 830us/step
+✅ Done → MAE: 0.3880
+⏳36번째 Training GRU: look_back=1, units=32, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 945us/step
+✅ Done → MAE: 0.3679
+⏳37번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 724us/step
+✅ Done → MAE: 0.3779
+⏳38번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 835us/step
+✅ Done → MAE: 0.3806
+⏳39번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 952us/step
+✅ Done → MAE: 0.3705
+⏳40번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 708us/step
+✅ Done → MAE: 0.3753
+⏳41번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 875us/step
+✅ Done → MAE: 0.3708
+⏳42번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 976us/step
+✅ Done → MAE: 0.3799
+⏳43번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 733us/step
+✅ Done → MAE: 0.3787
+⏳44번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 851us/step
+✅ Done → MAE: 0.3839
+⏳45번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3715
+⏳46번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 725us/step
+✅ Done → MAE: 0.3801
+⏳47번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 871us/step
+✅ Done → MAE: 0.3766
+⏳48번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 979us/step
+✅ Done → MAE: 0.3764
+⏳49번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 710us/step
+✅ Done → MAE: 0.3778
+⏳50번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 857us/step
+✅ Done → MAE: 0.3718
+⏳51번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 974us/step
+✅ Done → MAE: 0.3766
+⏳52번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 743us/step
+✅ Done → MAE: 0.3830
+⏳53번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 866us/step
+✅ Done → MAE: 0.3954
+⏳54번째 Training GRU: look_back=1, units=32, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 953us/step
+✅ Done → MAE: 0.3816
+⏳55번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 700us/step
+✅ Done → MAE: 0.3769
+⏳56번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 928us/step
+✅ Done → MAE: 0.3905
+⏳57번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 966us/step
+✅ Done → MAE: 0.3684
+⏳58번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 701us/step
+✅ Done → MAE: 0.3761
+⏳59번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 817us/step
+✅ Done → MAE: 0.3884
+⏳60번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 963us/step
+✅ Done → MAE: 0.3659
+⏳61번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 695us/step
+✅ Done → MAE: 0.3800
+⏳62번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 815us/step
+✅ Done → MAE: 0.3810
+⏳63번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 928us/step
+✅ Done → MAE: 0.3572
+⏳64번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 735us/step
+✅ Done → MAE: 0.3854
+⏳65번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 926us/step
+✅ Done → MAE: 0.3732
+⏳66번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 966us/step
+✅ Done → MAE: 0.3819
+⏳67번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 690us/step
+✅ Done → MAE: 0.3787
+⏳68번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 809us/step
+✅ Done → MAE: 0.4038
+⏳69번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3791
+⏳70번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 687us/step
+✅ Done → MAE: 0.3833
+⏳71번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 847us/step
+✅ Done → MAE: 0.3832
+⏳72번째 Training GRU: look_back=1, units=32, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 943us/step
+✅ Done → MAE: 0.3875
+⏳73번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 693us/step
+✅ Done → MAE: 0.3753
+⏳74번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 842us/step
+✅ Done → MAE: 0.3744
+⏳75번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 964us/step
+✅ Done → MAE: 0.3798
+⏳76번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 694us/step
+✅ Done → MAE: 0.3798
+⏳77번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 832us/step
+✅ Done → MAE: 0.3779
+⏳78번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 958us/step
+✅ Done → MAE: 0.3745
+⏳79번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 704us/step
+✅ Done → MAE: 0.3819
+⏳80번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 818us/step
+✅ Done → MAE: 0.3716
+⏳81번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3863
+⏳82번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 694us/step
+✅ Done → MAE: 0.3762
+⏳83번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 820us/step
+✅ Done → MAE: 0.3864
+⏳84번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 952us/step
+✅ Done → MAE: 0.3851
+⏳85번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 714us/step
+✅ Done → MAE: 0.3815
+⏳86번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 788us/step
+✅ Done → MAE: 0.3798
+⏳87번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 963us/step
+✅ Done → MAE: 0.3711
+⏳88번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 705us/step
+✅ Done → MAE: 0.3820
+⏳89번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 812us/step
+✅ Done → MAE: 0.3740
+⏳90번째 Training GRU: look_back=1, units=32, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 952us/step
+✅ Done → MAE: 0.3881
+⏳91번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 677us/step
+✅ Done → MAE: 0.3727
+⏳92번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 845us/step
+✅ Done → MAE: 0.3793
+⏳93번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 951us/step
+✅ Done → MAE: 0.3766
+⏳94번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 678us/step
+✅ Done → MAE: 0.3814
+⏳95번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 900us/step
+✅ Done → MAE: 0.3687
+⏳96번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 963us/step
+✅ Done → MAE: 0.3881
+⏳97번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 684us/step
+✅ Done → MAE: 0.3824
+⏳98번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 892us/step
+✅ Done → MAE: 0.3814
+⏳99번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 961us/step
+✅ Done → MAE: 0.3890
+⏳100번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 688us/step
+✅ Done → MAE: 0.3821
+⏳101번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 905us/step
+✅ Done → MAE: 0.3767
+⏳102번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 965us/step
+✅ Done → MAE: 0.3882
+⏳103번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 715us/step
+✅ Done → MAE: 0.3736
+⏳104번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 843us/step
+✅ Done → MAE: 0.3749
+⏳105번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 965us/step
+✅ Done → MAE: 0.3809
+⏳106번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 715us/step
+✅ Done → MAE: 0.3790
+⏳107번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 802us/step
+✅ Done → MAE: 0.3801
+⏳108번째 Training GRU: look_back=1, units=32, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 937us/step
+✅ Done → MAE: 0.3727
+⏳109번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 688us/step
+✅ Done → MAE: 0.3825
+⏳110번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 826us/step
+✅ Done → MAE: 0.3642
+⏳111번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 977us/step
+✅ Done → MAE: 0.3711
+⏳112번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 696us/step
+✅ Done → MAE: 0.3833
+⏳113번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 825us/step
+✅ Done → MAE: 0.3777
+⏳114번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 964us/step
+✅ Done → MAE: 0.3787
+⏳115번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 688us/step
+✅ Done → MAE: 0.3755
+⏳116번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 836us/step
+✅ Done → MAE: 0.4004
+⏳117번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3774
+⏳118번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 754us/step
+✅ Done → MAE: 0.3812
+⏳119번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 818us/step
+✅ Done → MAE: 0.3825
+⏳120번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 958us/step
+✅ Done → MAE: 0.3824
+⏳121번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 706us/step
+✅ Done → MAE: 0.3808
+⏳122번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 809us/step
+✅ Done → MAE: 0.3729
+⏳123번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3812
+⏳124번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 684us/step
+✅ Done → MAE: 0.3850
+⏳125번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 809us/step
+✅ Done → MAE: 0.3707
+⏳126번째 Training GRU: look_back=1, units=64, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3805
+⏳127번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 690us/step
+✅ Done → MAE: 0.3880
+⏳128번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 822us/step
+✅ Done → MAE: 0.3812
+⏳129번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 959us/step
+✅ Done → MAE: 0.3744
+⏳130번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 693us/step
+✅ Done → MAE: 0.3803
+⏳131번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 912us/step
+✅ Done → MAE: 0.3769
+⏳132번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 929us/step
+✅ Done → MAE: 0.3716
+⏳133번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 821us/step
+✅ Done → MAE: 0.3850
+⏳134번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 868us/step
+✅ Done → MAE: 0.3811
+⏳135번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 955us/step
+✅ Done → MAE: 0.3811
+⏳136번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 685us/step
+✅ Done → MAE: 0.3794
+⏳137번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 832us/step
+✅ Done → MAE: 0.3791
+⏳138번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3833
+⏳139번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 711us/step
+✅ Done → MAE: 0.3699
+⏳140번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 939us/step
+✅ Done → MAE: 0.3742
+⏳141번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 950us/step
+✅ Done → MAE: 0.3799
+⏳142번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 713us/step
+✅ Done → MAE: 0.3824
+⏳143번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 823us/step
+✅ Done → MAE: 0.3851
+⏳144번째 Training GRU: look_back=1, units=64, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 950us/step
+✅ Done → MAE: 0.3752
+⏳145번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 795us/step
+✅ Done → MAE: 0.3803
+⏳146번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 842us/step
+✅ Done → MAE: 0.3726
+⏳147번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3753
+⏳148번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 720us/step
+✅ Done → MAE: 0.3810
+⏳149번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 810us/step
+✅ Done → MAE: 0.3803
+⏳150번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 957us/step
+✅ Done → MAE: 0.3766
+⏳151번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 695us/step
+✅ Done → MAE: 0.3774
+⏳152번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 820us/step
+✅ Done → MAE: 0.3715
+⏳153번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 969us/step
+✅ Done → MAE: 0.3653
+⏳154번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 818us/step
+✅ Done → MAE: 0.3864
+⏳155번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 821us/step
+✅ Done → MAE: 0.3753
+⏳156번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3739
+⏳157번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 708us/step
+✅ Done → MAE: 0.3724
+⏳158번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 905us/step
+✅ Done → MAE: 0.3785
+⏳159번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 976us/step
+✅ Done → MAE: 0.3709
+⏳160번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 708us/step
+✅ Done → MAE: 0.3829
+⏳161번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 861us/step
+✅ Done → MAE: 0.3814
+⏳162번째 Training GRU: look_back=1, units=64, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 966us/step
+✅ Done → MAE: 0.3836
+⏳163번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 699us/step
+✅ Done → MAE: 0.3811
+⏳164번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 844us/step
+✅ Done → MAE: 0.3710
+⏳165번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 988us/step
+✅ Done → MAE: 0.3652
+⏳166번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 809us/step
+✅ Done → MAE: 0.3792
+⏳167번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 835us/step
+✅ Done → MAE: 0.4028
+⏳168번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3743
+⏳169번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 703us/step
+✅ Done → MAE: 0.3808
+⏳170번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 922us/step
+✅ Done → MAE: 0.3786
+⏳171번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 979us/step
+✅ Done → MAE: 0.3627
+⏳172번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 812us/step
+✅ Done → MAE: 0.3837
+⏳173번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 855us/step
+✅ Done → MAE: 0.3779
+⏳174번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3743
+⏳175번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 709us/step
+✅ Done → MAE: 0.3694
+⏳176번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 953us/step
+✅ Done → MAE: 0.3771
+⏳177번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 968us/step
+✅ Done → MAE: 0.3712
+⏳178번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 715us/step
+✅ Done → MAE: 0.3876
+⏳179번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 836us/step
+✅ Done → MAE: 0.3693
+⏳180번째 Training GRU: look_back=1, units=64, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 961us/step
+✅ Done → MAE: 0.3858
+⏳181번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 700us/step
+✅ Done → MAE: 0.3820
+⏳182번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 834us/step
+✅ Done → MAE: 0.3754
+⏳183번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 960us/step
+✅ Done → MAE: 0.3844
+⏳184번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 717us/step
+✅ Done → MAE: 0.3783
+⏳185번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 854us/step
+✅ Done → MAE: 0.3794
+⏳186번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 964us/step
+✅ Done → MAE: 0.3820
+⏳187번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 692us/step
+✅ Done → MAE: 0.3803
+⏳188번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 849us/step
+✅ Done → MAE: 0.3750
+⏳189번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 964us/step
+✅ Done → MAE: 0.3814
+⏳190번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 718us/step
+✅ Done → MAE: 0.3781
+⏳191번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 869us/step
+✅ Done → MAE: 0.3744
+⏳192번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 972us/step
+✅ Done → MAE: 0.3851
+⏳193번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 686us/step
+✅ Done → MAE: 0.3803
+⏳194번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 867us/step
+✅ Done → MAE: 0.3789
+⏳195번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3687
+⏳196번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 686us/step
+✅ Done → MAE: 0.3794
+⏳197번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 925us/step
+✅ Done → MAE: 0.3788
+⏳198번째 Training GRU: look_back=1, units=64, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 992us/step
+✅ Done → MAE: 0.3893
+⏳199번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 706us/step
+✅ Done → MAE: 0.3735
+⏳200번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 857us/step
+✅ Done → MAE: 0.3692
+⏳201번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 986us/step
+✅ Done → MAE: 0.3777
+⏳202번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 787us/step
+✅ Done → MAE: 0.3806
+⏳203번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 835us/step
+✅ Done → MAE: 0.3986
+⏳204번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3929
+⏳205번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 701us/step
+✅ Done → MAE: 0.3776
+⏳206번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 929us/step
+✅ Done → MAE: 0.3747
+⏳207번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 959us/step
+✅ Done → MAE: 0.3814
+⏳208번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 691us/step
+✅ Done → MAE: 0.3801
+⏳209번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 841us/step
+✅ Done → MAE: 0.3882
+⏳210번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 989us/step
+✅ Done → MAE: 0.3745
+⏳211번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 765us/step
+✅ Done → MAE: 0.3809
+⏳212번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 806us/step
+✅ Done → MAE: 0.3738
+⏳213번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3703
+⏳214번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 724us/step
+✅ Done → MAE: 0.3783
+⏳215번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 834us/step
+✅ Done → MAE: 0.3894
+⏳216번째 Training GRU: look_back=1, units=64, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3827
+⏳217번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 745us/step
+✅ Done → MAE: 0.3793
+⏳218번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 878us/step
+✅ Done → MAE: 0.3731
+⏳219번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3857
+⏳220번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 734us/step
+✅ Done → MAE: 0.3758
+⏳221번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 872us/step
+✅ Done → MAE: 0.3803
+⏳222번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.4233
+⏳223번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 723us/step
+✅ Done → MAE: 0.3828
+⏳224번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 867us/step
+✅ Done → MAE: 0.3763
+⏳225번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3897
+⏳226번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 709us/step
+✅ Done → MAE: 0.3862
+⏳227번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 886us/step
+✅ Done → MAE: 0.3827
+⏳228번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.4137
+⏳229번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 730us/step
+✅ Done → MAE: 0.3877
+⏳230번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 923us/step
+✅ Done → MAE: 0.3763
+⏳231번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3758
+⏳232번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 787us/step
+✅ Done → MAE: 0.3782
+⏳233번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 904us/step
+✅ Done → MAE: 0.3772
+⏳234번째 Training GRU: look_back=1, units=128, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3839
+⏳235번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 815us/step
+✅ Done → MAE: 0.3866
+⏳236번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 867us/step
+✅ Done → MAE: 0.3765
+⏳237번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3699
+⏳238번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 836us/step
+✅ Done → MAE: 0.3871
+⏳239번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 923us/step
+✅ Done → MAE: 0.4042
+⏳240번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3775
+⏳241번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 744us/step
+✅ Done → MAE: 0.3781
+⏳242번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 965us/step
+✅ Done → MAE: 0.3648
+⏳243번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3870
+⏳244번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 748us/step
+✅ Done → MAE: 0.3801
+⏳245번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 875us/step
+✅ Done → MAE: 0.3805
+⏳246번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3750
+⏳247번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 767us/step
+✅ Done → MAE: 0.3726
+⏳248번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 881us/step
+✅ Done → MAE: 0.3793
+⏳249번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3692
+⏳250번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 855us/step
+✅ Done → MAE: 0.3761
+⏳251번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 900us/step
+✅ Done → MAE: 0.3937
+⏳252번째 Training GRU: look_back=1, units=128, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3813
+⏳253번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 747us/step
+✅ Done → MAE: 0.3789
+⏳254번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 980us/step
+✅ Done → MAE: 0.3814
+⏳255번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3692
+⏳256번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 720us/step
+✅ Done → MAE: 0.3748
+⏳257번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 866us/step
+✅ Done → MAE: 0.3736
+⏳258번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3865
+⏳259번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 855us/step
+✅ Done → MAE: 0.3769
+⏳260번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 880us/step
+✅ Done → MAE: 0.3709
+⏳261번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3765
+⏳262번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 795us/step
+✅ Done → MAE: 0.3762
+⏳263번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 893us/step
+✅ Done → MAE: 0.3889
+⏳264번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3798
+⏳265번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 818us/step
+✅ Done → MAE: 0.3762
+⏳266번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 978us/step
+✅ Done → MAE: 0.3766
+⏳267번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3725
+⏳268번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 733us/step
+✅ Done → MAE: 0.3820
+⏳269번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 897us/step
+✅ Done → MAE: 0.3871
+⏳270번째 Training GRU: look_back=1, units=128, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3753
+⏳271번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 857us/step
+✅ Done → MAE: 0.3716
+⏳272번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 956us/step
+✅ Done → MAE: 0.3772
+⏳273번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3675
+⏳274번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 717us/step
+✅ Done → MAE: 0.3768
+⏳275번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 897us/step
+✅ Done → MAE: 0.3747
+⏳276번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3995
+⏳277번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 866us/step
+✅ Done → MAE: 0.3826
+⏳278번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 868us/step
+✅ Done → MAE: 0.3816
+⏳279번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3677
+⏳280번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 749us/step
+✅ Done → MAE: 0.3752
+⏳281번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 957us/step
+✅ Done → MAE: 0.3705
+⏳282번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3797
+⏳283번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 824us/step
+✅ Done → MAE: 0.3748
+⏳284번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 880us/step
+✅ Done → MAE: 0.3797
+⏳285번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3692
+⏳286번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 750us/step
+✅ Done → MAE: 0.3836
+⏳287번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 979us/step
+✅ Done → MAE: 0.3943
+⏳288번째 Training GRU: look_back=1, units=128, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3777
+⏳289번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 875us/step
+✅ Done → MAE: 0.3744
+⏳290번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 913us/step
+✅ Done → MAE: 0.3748
+⏳291번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3720
+⏳292번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 756us/step
+✅ Done → MAE: 0.3785
+⏳293번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 988us/step
+✅ Done → MAE: 0.3778
+⏳294번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3812
+⏳295번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 724us/step
+✅ Done → MAE: 0.3790
+⏳296번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 907us/step
+✅ Done → MAE: 0.3767
+⏳297번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3820
+⏳298번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 777us/step
+✅ Done → MAE: 0.3699
+⏳299번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3963
+⏳300번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3697
+⏳301번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 736us/step
+✅ Done → MAE: 0.3758
+⏳302번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 874us/step
+✅ Done → MAE: 0.3746
+⏳303번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3766
+⏳304번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 754us/step
+✅ Done → MAE: 0.3821
+⏳305번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3767
+⏳306번째 Training GRU: look_back=1, units=128, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3831
+⏳307번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.0, opt=adam, layers=1
+217/217 [==============================] - 0s 733us/step
+✅ Done → MAE: 0.3741
+⏳308번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.0, opt=adam, layers=2
+217/217 [==============================] - 1s 875us/step
+✅ Done → MAE: 0.3665
+⏳309번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.0, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3754
+⏳310번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 744us/step
+✅ Done → MAE: 0.3818
+⏳311번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 977us/step
+✅ Done → MAE: 0.3776
+⏳312번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3850
+⏳313번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.25, opt=adam, layers=1
+217/217 [==============================] - 0s 811us/step
+✅ Done → MAE: 0.3750
+⏳314번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.25, opt=adam, layers=2
+217/217 [==============================] - 1s 894us/step
+✅ Done → MAE: 0.3809
+⏳315번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.25, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3736
+⏳316번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 728us/step
+✅ Done → MAE: 0.3830
+⏳317번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 875us/step
+✅ Done → MAE: 0.3670
+⏳318번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3775
+⏳319번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.5, opt=adam, layers=1
+217/217 [==============================] - 0s 862us/step
+✅ Done → MAE: 0.3746
+⏳320번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.5, opt=adam, layers=2
+217/217 [==============================] - 1s 970us/step
+✅ Done → MAE: 0.3746
+⏳321번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.5, opt=adam, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3767
+⏳322번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=1
+217/217 [==============================] - 0s 814us/step
+✅ Done → MAE: 0.3697
+⏳323번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=2
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3841
+⏳324번째 Training GRU: look_back=1, units=128, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=3
+217/217 [==============================] - 1s 1ms/step
+✅ Done → MAE: 0.3789
+⏳325번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3507
+⏳326번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3435
+⏳327번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3589
+⏳328번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3872
+⏳329번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3822
+⏳330번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3842
+⏳331번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3501
+⏳332번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3456
+⏳333번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3432
+⏳334번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3876
+⏳335번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3960
+⏳336번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.4093
+⏳337번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 2ms/step
+✅ Done → MAE: 0.3621
+⏳338번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3665
+⏳339번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3698
+⏳340번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3877
+⏳341번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3800
+⏳342번째 Training GRU: look_back=60, units=32, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3726
+⏳343번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3438
+⏳344번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3385
+⏳345번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3369
+⏳346번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 2ms/step
+✅ Done → MAE: 0.3566
+⏳347번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3671
+⏳348번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3754
+⏳349번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 1s 2ms/step
+✅ Done → MAE: 0.3426
+⏳350번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3319
+⏳351번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3504
+⏳352번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3635
+⏳353번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 5ms/step
+✅ Done → MAE: 0.3734
+⏳354번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3702
+⏳355번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3654
+⏳356번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 2s 5ms/step
+✅ Done → MAE: 0.3487
+⏳357번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 3s 9ms/step
+✅ Done → MAE: 0.3378
+⏳358번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3810
+⏳359번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 5ms/step
+✅ Done → MAE: 0.3799
+⏳360번째 Training GRU: look_back=60, units=32, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3415
+⏳361번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3517
+⏳362번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3488
+⏳363번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 3s 9ms/step
+✅ Done → MAE: 0.3434
+⏳364번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3699
+⏳365번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 5ms/step
+✅ Done → MAE: 0.3451
+⏳366번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3681
+⏳367번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3533
+⏳368번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 2s 5ms/step
+✅ Done → MAE: 0.3389
+⏳369번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3463
+⏳370번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3762
+⏳371번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3725
+⏳372번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3761
+⏳373번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3492
+⏳374번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 2s 5ms/step
+✅ Done → MAE: 0.3466
+⏳375번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3380
+⏳376번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3583
+⏳377번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 5ms/step
+✅ Done → MAE: 0.3704
+⏳378번째 Training GRU: look_back=60, units=32, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 3s 9ms/step
+✅ Done → MAE: 0.3798
+⏳379번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3465
+⏳380번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3499
+⏳381번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3460
+⏳382번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3737
+⏳383번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 5ms/step
+✅ Done → MAE: 0.3606
+⏳384번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3834
+⏳385번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3606
+⏳386번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3534
+⏳387번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 3s 9ms/step
+✅ Done → MAE: 0.3592
+⏳388번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3727
+⏳389번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3936
+⏳390번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3886
+⏳391번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3778
+⏳392번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 2s 5ms/step
+✅ Done → MAE: 0.3682
+⏳393번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 3s 9ms/step
+✅ Done → MAE: 0.3542
+⏳394번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3750
+⏳395번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.4058
+⏳396번째 Training GRU: look_back=60, units=32, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.4205
+⏳397번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3438
+⏳398번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 2s 5ms/step
+✅ Done → MAE: 0.3416
+⏳399번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3416
+⏳400번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3869
+⏳401번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 5ms/step
+✅ Done → MAE: 0.3728
+⏳402번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3946
+⏳403번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3551
+⏳404번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 2s 5ms/step
+✅ Done → MAE: 0.3529
+⏳405번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3410
+⏳406번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3760
+⏳407번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3800
+⏳408번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3709
+⏳409번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3656
+⏳410번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3460
+⏳411번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3483
+⏳412번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3883
+⏳413번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3730
+⏳414번째 Training GRU: look_back=60, units=32, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3814
+⏳415번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3472
+⏳416번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3374
+⏳417번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3373
+⏳418번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3654
+⏳419번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3760
+⏳420번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3862
+⏳421번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3510
+⏳422번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 2s 5ms/step
+✅ Done → MAE: 0.3409
+⏳423번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3409
+⏳424번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3791
+⏳425번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3860
+⏳426번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3710
+⏳427번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3529
+⏳428번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3484
+⏳429번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3552
+⏳430번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3811
+⏳431번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3815
+⏳432번째 Training GRU: look_back=60, units=32, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3936
+⏳433번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3406
+⏳434번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3399
+⏳435번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 3s 9ms/step
+✅ Done → MAE: 0.3591
+⏳436번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3687
+⏳437번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3646
+⏳438번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 3s 9ms/step
+✅ Done → MAE: 0.3694
+⏳439번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3474
+⏳440번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3795
+⏳441번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3444
+⏳442번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3794
+⏳443번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3762
+⏳444번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 3s 9ms/step
+✅ Done → MAE: 0.3811
+⏳445번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3460
+⏳446번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3569
+⏳447번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 3s 9ms/step
+✅ Done → MAE: 0.3539
+⏳448번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3877
+⏳449번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3716
+⏳450번째 Training GRU: look_back=60, units=64, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3678
+⏳451번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 1s 3ms/step
+✅ Done → MAE: 0.3444
+⏳452번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3433
+⏳453번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 3s 9ms/step
+✅ Done → MAE: 0.3532
+⏳454번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3668
+⏳455번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 4s 13ms/step
+✅ Done → MAE: 0.3472
+⏳456번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3701
+⏳457번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3520
+⏳458번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 3s 10ms/step
+✅ Done → MAE: 0.3354
+⏳459번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 6s 23ms/step
+✅ Done → MAE: 0.3480
+⏳460번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3774
+⏳461번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3445
+⏳462번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3731
+⏳463번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3442
+⏳464번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 3s 10ms/step
+✅ Done → MAE: 0.3515
+⏳465번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 4s 14ms/step
+✅ Done → MAE: 0.3450
+⏳466번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3780
+⏳467번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3611
+⏳468번째 Training GRU: look_back=60, units=64, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 13ms/step
+✅ Done → MAE: 0.3742
+⏳469번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 1s 4ms/step
+✅ Done → MAE: 0.3334
+⏳470번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3382
+⏳471번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 4s 14ms/step
+✅ Done → MAE: 0.3368
+⏳472번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3704
+⏳473번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3395
+⏳474번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 13ms/step
+✅ Done → MAE: 0.3712
+⏳475번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3481
+⏳476번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3332
+⏳477번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 4s 14ms/step
+✅ Done → MAE: 0.3367
+⏳478번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3781
+⏳479번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 3s 9ms/step
+✅ Done → MAE: 0.3823
+⏳480번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 13ms/step
+✅ Done → MAE: 0.3803
+⏳481번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3597
+⏳482번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3410
+⏳483번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 4s 13ms/step
+✅ Done → MAE: 0.3614
+⏳484번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3751
+⏳485번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3627
+⏳486번째 Training GRU: look_back=60, units=64, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 14ms/step
+✅ Done → MAE: 0.3319
+⏳487번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3551
+⏳488번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3416
+⏳489번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 4s 14ms/step
+✅ Done → MAE: 0.3424
+⏳490번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3790
+⏳491번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3948
+⏳492번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 14ms/step
+✅ Done → MAE: 0.3833
+⏳493번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3707
+⏳494번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3404
+⏳495번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 4s 14ms/step
+✅ Done → MAE: 0.3658
+⏳496번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.4216
+⏳497번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3806
+⏳498번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 14ms/step
+✅ Done → MAE: 0.3698
+⏳499번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3548
+⏳500번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3588
+⏳501번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 4s 14ms/step
+✅ Done → MAE: 0.3562
+⏳502번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3834
+⏳503번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3763
+⏳504번째 Training GRU: look_back=60, units=64, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 14ms/step
+✅ Done → MAE: 0.3704
+⏳505번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3485
+⏳506번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3437
+⏳507번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3348
+⏳508번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3806
+⏳509번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3787
+⏳510번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3807
+⏳511번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3383
+⏳512번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3371
+⏳513번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 4s 14ms/step
+✅ Done → MAE: 0.3570
+⏳514번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3859
+⏳515번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 3s 10ms/step
+✅ Done → MAE: 0.3864
+⏳516번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3684
+⏳517번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 6ms/step
+✅ Done → MAE: 0.3396
+⏳518번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 3s 9ms/step
+✅ Done → MAE: 0.3454
+⏳519번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3520
+⏳520번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 6ms/step
+✅ Done → MAE: 0.3749
+⏳521번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 3s 9ms/step
+✅ Done → MAE: 0.3778
+⏳522번째 Training GRU: look_back=60, units=64, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3952
+⏳523번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3484
+⏳524번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 3s 10ms/step
+✅ Done → MAE: 0.3364
+⏳525번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3389
+⏳526번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3725
+⏳527번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3395
+⏳528번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3806
+⏳529번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3397
+⏳530번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 3s 10ms/step
+✅ Done → MAE: 0.3445
+⏳531번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3321
+⏳532번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3746
+⏳533번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 3s 10ms/step
+✅ Done → MAE: 0.3685
+⏳534번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3706
+⏳535번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 6ms/step
+✅ Done → MAE: 0.3487
+⏳536번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 3s 10ms/step
+✅ Done → MAE: 0.3446
+⏳537번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3482
+⏳538번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3792
+⏳539번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 3s 10ms/step
+✅ Done → MAE: 0.3846
+⏳540번째 Training GRU: look_back=60, units=64, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3876
+⏳541번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3441
+⏳542번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3525
+⏳543번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 7s 30ms/step
+✅ Done → MAE: 0.3487
+⏳544번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3709
+⏳545번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.4098
+⏳546번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 7s 31ms/step
+✅ Done → MAE: 0.3719
+⏳547번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3522
+⏳548번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3435
+⏳549번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 7s 31ms/step
+✅ Done → MAE: 0.3521
+⏳550번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3747
+⏳551번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3900
+⏳552번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 7s 30ms/step
+✅ Done → MAE: 0.3868
+⏳553번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3677
+⏳554번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3534
+⏳555번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 7s 31ms/step
+✅ Done → MAE: 0.3381
+⏳556번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3722
+⏳557번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 5s 18ms/step
+✅ Done → MAE: 0.3714
+⏳558번째 Training GRU: look_back=60, units=128, batch=32, epochs=10, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 7s 31ms/step
+✅ Done → MAE: 0.3673
+⏳559번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3417
+⏳560번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3334
+⏳561번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 7s 30ms/step
+✅ Done → MAE: 0.3444
+⏳562번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3693
+⏳563번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3719
+⏳564번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 7s 31ms/step
+✅ Done → MAE: 0.3473
+⏳565번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3528
+⏳566번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3477
+⏳567번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 7s 30ms/step
+✅ Done → MAE: 0.3555
+⏳568번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3626
+⏳569번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3741
+⏳570번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 7s 30ms/step
+✅ Done → MAE: 0.3712
+⏳571번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3425
+⏳572번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3534
+⏳573번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 7s 30ms/step
+✅ Done → MAE: 0.3313
+⏳574번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3836
+⏳575번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3765
+⏳576번째 Training GRU: look_back=60, units=128, batch=32, epochs=30, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 7s 30ms/step
+✅ Done → MAE: 0.3463
+⏳577번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3358
+⏳578번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3408
+⏳579번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 7s 31ms/step
+✅ Done → MAE: 0.3306
+⏳580번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3708
+⏳581번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3896
+⏳582번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 7s 30ms/step
+✅ Done → MAE: 0.3442
+⏳583번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 3s 13ms/step
+✅ Done → MAE: 0.3528
+⏳584번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3468
+⏳585번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 7s 30ms/step
+✅ Done → MAE: 0.3350
+⏳586번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 3s 13ms/step
+✅ Done → MAE: 0.3696
+⏳587번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 5s 19ms/step
+✅ Done → MAE: 0.3768
+⏳588번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 7s 31ms/step
+✅ Done → MAE: 0.3778
+⏳589번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3573
+⏳590번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 4s 18ms/step
+✅ Done → MAE: 0.3451
+⏳591번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 7s 31ms/step
+✅ Done → MAE: 0.3353
+⏳592번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 3s 12ms/step
+✅ Done → MAE: 0.3908
+⏳593번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 5s 19ms/step
+✅ Done → MAE: 0.3805
+⏳594번째 Training GRU: look_back=60, units=128, batch=32, epochs=50, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 7s 31ms/step
+✅ Done → MAE: 0.3685
+⏳595번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 3s 14ms/step
+✅ Done → MAE: 0.3446
+⏳596번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 5s 21ms/step
+✅ Done → MAE: 0.3382
+⏳597번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 8s 35ms/step
+✅ Done → MAE: 0.3520
+⏳598번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 3s 14ms/step
+✅ Done → MAE: 0.4034
+⏳599번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 5s 21ms/step
+✅ Done → MAE: 0.3807
+⏳600번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 9s 37ms/step
+✅ Done → MAE: 0.3651
+⏳601번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 3s 14ms/step
+✅ Done → MAE: 0.3507
+⏳602번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 6s 25ms/step
+✅ Done → MAE: 0.3542
+⏳603번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 4s 14ms/step
+✅ Done → MAE: 0.3458
+⏳604번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 6ms/step
+✅ Done → MAE: 0.3779
+⏳605번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3821
+⏳606번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 16ms/step
+✅ Done → MAE: 0.3690
+⏳607번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3589
+⏳608번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 3s 10ms/step
+✅ Done → MAE: 0.3555
+⏳609번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 4s 16ms/step
+✅ Done → MAE: 0.3600
+⏳610번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 6ms/step
+✅ Done → MAE: 0.3828
+⏳611번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3859
+⏳612번째 Training GRU: look_back=60, units=128, batch=64, epochs=10, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3695
+⏳613번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3470
+⏳614번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3461
+⏳615번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3435
+⏳616번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3818
+⏳617번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 3s 13ms/step
+✅ Done → MAE: 0.3696
+⏳618번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 5s 20ms/step
+✅ Done → MAE: 0.4011
+⏳619번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3463
+⏳620번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 3s 10ms/step
+✅ Done → MAE: 0.3411
+⏳621번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3425
+⏳622번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3851
+⏳623번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 9ms/step
+✅ Done → MAE: 0.3916
+⏳624번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 14ms/step
+✅ Done → MAE: 0.3826
+⏳625번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 6ms/step
+✅ Done → MAE: 0.3403
+⏳626번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 3s 10ms/step
+✅ Done → MAE: 0.3557
+⏳627번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3415
+⏳628번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3692
+⏳629번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 3s 10ms/step
+✅ Done → MAE: 0.3884
+⏳630번째 Training GRU: look_back=60, units=128, batch=64, epochs=30, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 17ms/step
+✅ Done → MAE: 0.3771
+⏳631번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.0, opt=adam, layers=1
+215/215 [==============================] - 2s 7ms/step
+✅ Done → MAE: 0.3391
+⏳632번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.0, opt=adam, layers=2
+215/215 [==============================] - 3s 10ms/step
+✅ Done → MAE: 0.3466
+⏳633번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.0, opt=adam, layers=3
+215/215 [==============================] - 3s 14ms/step
+✅ Done → MAE: 0.3296
+⏳634번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3775
+⏳635번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3679
+⏳636번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.0, opt=rmsprop, layers=3
+215/215 [==============================] - 4s 15ms/step
+✅ Done → MAE: 0.3662
+⏳637번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.25, opt=adam, layers=1
+215/215 [==============================] - 2s 6ms/step
+✅ Done → MAE: 0.3448
+⏳638번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.25, opt=adam, layers=2
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3345
+⏳639번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.25, opt=adam, layers=3
+215/215 [==============================] - 3s 13ms/step
+✅ Done → MAE: 0.3439
+⏳640번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3763
+⏳641번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3756
+⏳642번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.25, opt=rmsprop, layers=3
+215/215 [==============================] - 3s 13ms/step
+✅ Done → MAE: 0.3738
+⏳643번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.5, opt=adam, layers=1
+215/215 [==============================] - 1s 5ms/step
+✅ Done → MAE: 0.3595
+⏳644번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.5, opt=adam, layers=2
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3460
+⏳645번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.5, opt=adam, layers=3
+215/215 [==============================] - 3s 14ms/step
+✅ Done → MAE: 0.3483
+⏳646번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=1
+215/215 [==============================] - 1s 6ms/step
+✅ Done → MAE: 0.3840
+⏳647번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=2
+215/215 [==============================] - 2s 8ms/step
+✅ Done → MAE: 0.3938
+⏳648번째 Training GRU: look_back=60, units=128, batch=64, epochs=50, dropout=0.5, opt=rmsprop, layers=3
+215/215 [==============================] - 3s 13ms/step
+✅ Done → MAE: 0.3768
