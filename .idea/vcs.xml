@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/0627/test/crema-d-mirror" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mecab-ko-for-Google-Colab" vcs="Git" />
   </component>
 </project>
